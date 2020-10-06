@@ -1,2 +1,1 @@
-# CartoonGAN
 # CartoonGAN_StyleLoss
